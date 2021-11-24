@@ -10,7 +10,7 @@
   👩‍💻 Tenho 17 anos de idade<br>
   👩‍💻 Estudante do ensino médio<br>
   👩‍💻 Me aventurando pelos caminhos que os códigos podem me levar<br>
-  👩‍💻 Sempre codando nas horas vagas<br>
+  👩‍💻 Recife-PE
 </p>
 
 <h3>
