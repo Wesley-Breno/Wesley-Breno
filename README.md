@@ -1,6 +1,6 @@
 <h2>"Que o codigo não dê erro e que o nosso café nunca acabe." 🙏</h2>
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wesley-Breno&show_icons=true&theme=midnight-purple)
+![Wesley GitHub stats](https://github-readme-stats.vercel.app/api?username=Wesley-Breno&show_icons=true&theme=midnight-purple)
   
 ![linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Wesley-Breno&layout=compact&theme=midnight-purple)
 
@@ -10,6 +10,7 @@
   👩‍💻 Tenho 17 anos de idade<br>
   👩‍💻 Estudante do ensino médio<br>
   👩‍💻 Me aventurando pelos caminhos que os códigos podem me levar<br>
+  👩‍💻 Sempre codando nas horas vagas<br>
 </p>
 
 <h3>
