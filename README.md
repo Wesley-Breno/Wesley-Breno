@@ -1,8 +1,6 @@
 <h2>"Que o codigo não dê erro e que o nosso café nunca acabe." 🙏</h2>
 
-<div align='center'>
 <img src='https://c.tenor.com/NeJfHqkmdMIAAAAi/tux-linux-penguin.gif'></img><img src='https://monophy.com/media/kUGK2fwgL5kTXmzvlC/monophy.gif' width='50'></img>
-</div>
 
 ![Wesley GitHub stats](https://github-readme-stats.vercel.app/api?username=Wesley-Breno&show_icons=true&theme=midnight-purple)
   
