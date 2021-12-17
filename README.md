@@ -1,5 +1,7 @@
 <h2>"Que o codigo não dê erro e que o nosso café nunca acabe." 🙏</h2>
-  
+
+<img src='https://c.tenor.com/NeJfHqkmdMIAAAAi/tux-linux-penguin.gif'></img><img src='https://monophy.com/media/kUGK2fwgL5kTXmzvlC/monophy.gif' width='50'></img>
+
 ![Wesley GitHub stats](https://github-readme-stats.vercel.app/api?username=Wesley-Breno&show_icons=true&theme=midnight-purple)
   
 ![linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Wesley-Breno&layout=compact&theme=midnight-purple)
