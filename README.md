@@ -16,7 +16,7 @@
 </p>
 
 <h3>
-  Minha redes sociais
+  Minhas redes sociais
 </h3>
   
 <a href='https://www.linkedin.com/in/wesley-breno-ba2b33208/'  target="_blank">
