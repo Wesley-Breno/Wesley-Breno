@@ -2,7 +2,7 @@
 <h1 align='center'>Olá, eu sou Wesley 🖖👨🏾‍💻</h1>
 <h3 align='center'>Seja bem vindo ao meu perfil do GitHub</h3>
 
-* 👨🏾‍💻 Programador desde de 2020
+* 👨🏾‍💻 Programador desde 2020
 * 📚 Me dê um desafio que voltarei com a solução
 * ☕ Gosto de café e lofi-music
 
