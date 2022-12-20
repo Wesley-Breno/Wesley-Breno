@@ -52,8 +52,8 @@
 </a>
 </p>
 
-![Wesley GitHub stats](https://github-readme-stats.vercel.app/api?username=Wesley-Breno&show_icons=true&theme=midnight-purple)
-![linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Wesley-Breno&layout=compact&theme=midnight-purple)
+![Wesley GitHub stats](https://github-readme-stats-beryl.vercel.app/api?username=Wesley-Breno&show_icons=true&theme=midnight-purple)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wesley-Breno&layout=compact&show_icons=true&theme=midnight-purple)
 
 <h3>Conecte-se comigo:</h3>
 <p>
