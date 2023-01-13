@@ -53,7 +53,10 @@
 </p>
 
 ![Wesley GitHub stats](https://github-readme-stats-beryl.vercel.app/api?username=Wesley-Breno&show_icons=true&theme=midnight-purple)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wesley-Breno&layout=compact&show_icons=true&theme=midnight-purple)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Wesley-Breno&theme=midnight-purple&border_radius=&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
+<p align="center">
+	<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Wesley-Breno&layout=compact&show_icons=true&theme=midnight-purple"/>    
+</p>
 
 <h3>Conecte-se comigo:</h3>
 <p>
