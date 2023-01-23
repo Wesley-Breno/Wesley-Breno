@@ -50,6 +50,9 @@
 <a href='https://git-scm.com/' target='_blank'>
 <img src='https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png' width='40' height='40'>
 </a>
+<a href='https://getbootstrap.com/' target='_blank'>
+<img src='https://getbootstrap.com.br/docs/4.1/assets/img/bootstrap-stack.png' width='40' height='40'>
+</a>
 </p>
 
 <p align="center">
