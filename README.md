@@ -53,10 +53,16 @@
 <a href='https://getbootstrap.com/' target='_blank'>
 <img src='https://getbootstrap.com.br/docs/4.1/assets/img/bootstrap-stack.png' width='40' height='40'>
 </a>
+<a href='https://numpy.org/' target='_blank'>
+<img src='https://vvcestudio.com.br/static/assetsv5/img/codigo/logonumpy.png' width='40' height='40'>
+</a>
+<a href='https://pandas.pydata.org/' target='_blank'>
+<img src='https://www.alura.com.br/assets/api/cursos/512/introducao-python-pandas.png' width='40' height='40'>
+</a>
 </p>
 
 <p align="center">
-	<img src="https://github-readme-stats-beryl.vercel.app/api?username=Wesley-Breno&show_icons=true&theme=midnight-purple"/>
+	<img src="https://github-readme-stats.vercel.app/api?username=Wesley-Breno&theme=midnight-purple"/>
 	<img src="https://streak-stats.demolab.com?user=Wesley-Breno&theme=midnight-purple&border_radius=&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D"/>
 	<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Wesley-Breno&layout=compact&show_icons=true&theme=midnight-purple"/>    
 </p>
