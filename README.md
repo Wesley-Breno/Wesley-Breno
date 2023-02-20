@@ -67,8 +67,8 @@
 	<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Wesley-Breno&layout=compact&show_icons=true&theme=midnight-purple"/>    
 </p>
 
-<h3>Conecte-se comigo:</h3>
-<p>
+<h3 align="center">Conecte-se comigo:</h3>
+<p align="center">
 <a href='https://www.instagram.com/_wesleybreno_/' target='_blank'>
 <img src='https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg' width='40' height='40'>
 </a>
