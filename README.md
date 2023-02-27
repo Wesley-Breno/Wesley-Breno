@@ -59,10 +59,28 @@
 <a href='https://pandas.pydata.org/' target='_blank'>
 <img src='https://www.alura.com.br/assets/api/cursos/512/introducao-python-pandas.png' width='40' height='40'>
 </a>
+<a href='https://pandera.readthedocs.io/en/stable/' target='_blank'>
+<img src='https://pandera.readthedocs.io/en/latest/_static/pandera-logo.png' width='40' height='40'>
+</a>
+<a href='https://www.ettercap-project.org/' target='_blank'>
+<img src='https://avatars.githubusercontent.com/u/1973147?s=200&v=4' width='40' height='40'>
+</a>
+<a href='https://www.kali.org/tools/metasploit-framework/' target='_blank'>
+<img src='https://www.kali.org/tools/metasploit-framework/images/metasploit-framework-logo.svg' width='40' height='40'>
+</a>
+<a href='https://www.kali.org/tools/set/' target='_blank'>
+<img src='https://www.kali.org/tools/set/images/set-logo.svg' width='40' height='40'>
+</a>
+<a href='https://nmap.org/' target='_blank'>
+<img src='https://play-lh.googleusercontent.com/xfEwmzQADrjODuFw94jDJpcUM2f15a9wKvzOExZ8hH7zvYaNpXUzH-fcbAp3RTrPs18' width='40' height='40'>
+</a>
+<a href='https://www.wireshark.org/' target='_blank'>
+<img src='https://pt.seaicons.com/wp-content/uploads/2015/10/wireshark-icon.png' width='40' height='40'>
+</a>
 </p>
 
 <p align="center">
-	<img src="https://github-readme-stats.vercel.app/api?username=Wesley-Breno&theme=midnight-purple"/>
+	<img src="https://github-readme-stats.vercel.app/api?username=Wesley-Breno&theme=midnight-purple&count_private=true"/>
 	<img src="https://streak-stats.demolab.com?user=Wesley-Breno&theme=midnight-purple&border_radius=&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D"/>
 	<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Wesley-Breno&layout=compact&show_icons=true&theme=midnight-purple"/>    
 </p>
