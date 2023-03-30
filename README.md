@@ -2,95 +2,62 @@
 <h1 align='center'>Olá, eu sou Wesley 🖖👨🏾‍💻</h1>
 <h3 align='center'>Seja bem vindo ao meu perfil do GitHub</h3>
 
-* 👨🏾‍💻 Programador desde 2020
-* 📚 Me dê um desafio que voltarei com a solução
-* ☕ Gosto de café e lofi-music
+<h3>👨🏾‍💻Linguagens:</h3>
 
-<h3 align='center'>Linguagens e Ferramentas:</h3>
-<p align='center'>
-<a href='https://www.python.org/' target='_blank'>
-<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg' width='40' height='40'>
-</a>
-<a href='https://www.djangoproject.com/' target='_blank'>
-<img src='https://camo.githubusercontent.com/537f66454b766b0d56da91225206ebf6d28ecff24d84668d52cf9430e02460fd/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f646a616e676f2e737667' width='40' height='40'>
-</a>
-<a href='https://www.selenium.dev/' target='_blank'>
-<img src='https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg' width='40' height='40'>
-</a>
-<a href='https://doc.qt.io/qt-6/qtdesigner-manual.html' target='_blank'>
-<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Qt_logo_2013.svg/1200px-Qt_logo_2013.svg.png' width='40' height='40'>
-</a>
-<a href='https://requests.readthedocs.io/en/latest/' target='_blank'>
-<img src='https://upload.wikimedia.org/wikipedia/commons/a/aa/Requests_Python_Logo.png' width='40' height='40'>
-</a>
-<a href='https://pypi.org/project/beautifulsoup4/' target='_blank'>
-<img src='https://cdn-ak.f.st-hatena.com/images/fotolife/m/mitsu3204/20180824/20180824013430.jpg' width='40' height='40'>
-</a>
-<a href='https://developer.mozilla.org/pt-BR/docs/Web/JavaScript' target='_blank'>
-<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg' width='40' height='40'>
-</a>
-<a href='https://developer.mozilla.org/pt-BR/docs/Web/HTML' target='_blank'>
-<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg' width='40' height='40'>
-</a>
-<a href='https://developer.mozilla.org/pt-BR/docs/Web/CSS' target='_blank'>
-<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg' width='40' height='40'>
-</a>
-<a href='https://www.mysql.com/' target='_blank'>
-<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg' width='40' height='40'>
-</a>
-<a href='https://www.sqlite.org/index.html' target='_blank'>
-<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/SQLite370.svg/1280px-SQLite370.svg.png' width='70' height='40'>
-</a>
-<a href='https://dbeaver.io/about/' target='_blank'>
-<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/DBeaver_logo.svg/1200px-DBeaver_logo.svg.png' width='40' height='40'>
-</a>
-<a href='https://www.docker.com/' target='_blank'>
-<img src='https://img.mandic.com.br/blog/2015/01/homepage-docker-logo.png' width='40' height='40'>
-</a>
-<a href='https://git-scm.com/' target='_blank'>
-<img src='https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png' width='40' height='40'>
-</a>
-<a href='https://getbootstrap.com/' target='_blank'>
-<img src='https://getbootstrap.com.br/docs/4.1/assets/img/bootstrap-stack.png' width='40' height='40'>
-</a>
-<a href='https://numpy.org/' target='_blank'>
-<img src='https://vvcestudio.com.br/static/assetsv5/img/codigo/logonumpy.png' width='40' height='40'>
-</a>
-<a href='https://pandas.pydata.org/' target='_blank'>
-<img src='https://www.alura.com.br/assets/api/cursos/512/introducao-python-pandas.png' width='40' height='40'>
-</a>
-<a href='https://pandera.readthedocs.io/en/stable/' target='_blank'>
-<img src='https://pandera.readthedocs.io/en/latest/_static/pandera-logo.png' width='40' height='40'>
-</a>
-<a href='https://www.ettercap-project.org/' target='_blank'>
-<img src='https://avatars.githubusercontent.com/u/1973147?s=200&v=4' width='40' height='40'>
-</a>
-<a href='https://www.kali.org/tools/metasploit-framework/' target='_blank'>
-<img src='https://www.kali.org/tools/metasploit-framework/images/metasploit-framework-logo.svg' width='40' height='40'>
-</a>
-<a href='https://www.kali.org/tools/set/' target='_blank'>
-<img src='https://www.kali.org/tools/set/images/set-logo.svg' width='40' height='40'>
-</a>
-<a href='https://nmap.org/' target='_blank'>
-<img src='https://play-lh.googleusercontent.com/xfEwmzQADrjODuFw94jDJpcUM2f15a9wKvzOExZ8hH7zvYaNpXUzH-fcbAp3RTrPs18' width='40' height='40'>
-</a>
-<a href='https://www.wireshark.org/' target='_blank'>
-<img src='https://pt.seaicons.com/wp-content/uploads/2015/10/wireshark-icon.png' width='40' height='40'>
-</a>
-</p>
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffffff)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
+![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
 
+<h3>🔧Frameworks, plataformas e bibliotecas:</h3>
+
+![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTzprIvcoVfyG6HAjpTLPP9E1KxjpExlGH66YNm8OTvJ7GZt6c79G4sib8x5-zwqloJIA&usqp=CAU" width="70px">
+
+
+<h3>💾Bancos de dados:</h3>
+
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=black)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+
+<h3>☁️Hospedagem/SaaS:</h3>
+
+<div>
+	<img src="https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white">
+	<img src="https://camo.githubusercontent.com/0ff95ac28f85bda17f062b6babaa5f81dcfb540ad9239a9f248057ede13027fa/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476f6f676c65436c6f75642d2532333432383546342e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d676f6f676c652d636c6f7564266c6f676f436f6c6f723d7768697465">
+	<img src="https://camo.githubusercontent.com/d18f98a93a8ca015503870e592f96dbdf86f41048e9de1fbbbd4b2dcc7c456b1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6865726f6b752d2532333433303039382e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6865726f6b75266c6f676f436f6c6f723d7768697465">
+	<img src="https://camo.githubusercontent.com/dfb4109b571fbeb03ce2fe6eefb9eb9a3ca63e618e57002cc4b17d784baea807/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6e65746c6966792d2532333030303030302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6e65746c696679266c6f676f436f6c6f723d23303043374237">
+	<img src="https://camo.githubusercontent.com/22547aa007860433c23771dfd59d184297d9433adcf3082be8515a28a16cd875/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f76657263656c2d2532333030303030302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d76657263656c266c6f676f436f6c6f723d7768697465">
+	<img src="https://img.shields.io/badge/Railway-131415?style=for-the-badge&logo=railway&logoColor=white">
+</div>
+
+<h3>📱Social:</h3>
+
+<div>
+	<a href="https://www.linkedin.com/in/wesley-breno-ba2b33208/" target="_blank">
+		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+	</a>
+	<a href="https://www.instagram.com/_wesleybreno_/" target="_blank">
+		<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+	</a>	
+</div>
+
+<h2 align="center">GitHub Status</h2>
 <p align="center">
 	<img src="https://github-readme-stats.vercel.app/api?username=Wesley-Breno&theme=midnight-purple&count_private=true"/>
 	<img src="https://streak-stats.demolab.com?user=Wesley-Breno&theme=midnight-purple&border_radius=&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D"/>
 	<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Wesley-Breno&layout=compact&show_icons=true&theme=midnight-purple"/>    
-</p>
-
-<h3 align="center">Conecte-se comigo:</h3>
-<p align="center">
-<a href='https://www.instagram.com/_wesleybreno_/' target='_blank'>
-<img src='https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg' width='40' height='40'>
-</a>
-<a href='https://www.linkedin.com/in/wesley-breno-ba2b33208/' target='_blank'>
-<img src='https://camo.githubusercontent.com/8c244a7a7b8a6e767d241c9a6c5e1b5e13ea693770c52bbc3fe564ba4044a4c9/68747470733a2f2f63646e2d69636f6e732d706e672e666c617469636f6e2e636f6d2f3531322f3137342f3137343835372e706e67' width='40' height='40'>
-</a>
 </p>
