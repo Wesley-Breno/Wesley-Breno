@@ -1,4 +1,4 @@
-<p align='center'><img src='https://i.pinimg.com/originals/83/b8/09/83b809857acd41a7bad4935b4734f9fc.gif' width='100%' height='350'></p>
+<p align='center'><img src='https://i.pinimg.com/originals/83/b8/09/83b809857acd41a7bad4935b4734f9fc.gif' width='80%' height='350'></p>
 <h1 align='center'>Olá, eu sou Wesley 🖖👨🏾‍💻</h1>
 <h3 align='center'>Seja bem vindo ao meu perfil do GitHub</h3>
 
@@ -60,4 +60,9 @@
 	<img src="https://github-readme-stats.vercel.app/api?username=Wesley-Breno&theme=midnight-purple&count_private=true"/>
 	<img src="https://streak-stats.demolab.com?user=Wesley-Breno&theme=midnight-purple&border_radius=&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D"/>
 	<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Wesley-Breno&layout=compact&show_icons=true&theme=midnight-purple"/>    
+</p>
+
+<h2 align="center">LeetCode Status</h2>
+<p align="center">
+	<img src="https://leetcode-stats-six.vercel.app/?username=_wesleybreno_&theme=dark">
 </p>
