@@ -61,8 +61,3 @@
 	<img src="https://streak-stats.demolab.com?user=Wesley-Breno&theme=midnight-purple&border_radius=&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D"/>
 	<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Wesley-Breno&layout=compact&show_icons=true&theme=midnight-purple"/>    
 </p>
-
-<h2 align="center">LeetCode Status</h2>
-<p align="center">
-	<img src="https://leetcode-stats-six.vercel.app/?username=_wesleybreno_&theme=dark">
-</p>
