@@ -26,7 +26,6 @@
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTzprIvcoVfyG6HAjpTLPP9E1KxjpExlGH66YNm8OTvJ7GZt6c79G4sib8x5-zwqloJIA&usqp=CAU" width="70px">
 
 
 <h3>💾Databases:</h3>
@@ -52,6 +51,9 @@
 	<a href="https://www.instagram.com/_wesleybreno_/" target="_blank">
 		<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 	</a>	
+	<a href="https://www.duolingo.com/profile/_wesleybreno_" target="_blank"><img src="https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white"></a>
+	<a href="https://www.udemy.com/user/wesley-breno-da-silva-oliveira/" target="_blank"><img src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white"></a>
+	<a href="https://wesley-breno.github.io/Portfolio/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white"></a>
 </div>
 
 <h2 align="center">GitHub Status</h2>
