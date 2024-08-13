@@ -67,6 +67,11 @@
 	<a href="https://wesley-breno.github.io/Portfolio/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white"></a>
 </div>
 
+<h2 align="center">Leetcode Status</h2>
+<p align="center">
+	<a href="https://leetcode.com/_wesleybreno_/" _target="_blank"><img src="https://leetcard.jacoblin.cool/_wesleybreno_?ext=heatmap"></a>
+</p>
+
 <h2 align="center">GitHub Status</h2>
 <p align="center">
 	<img src="https://github-readme-stats.vercel.app/api?username=Wesley-Breno&theme=midnight-purple&count_private=true"/>
