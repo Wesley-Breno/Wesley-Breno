@@ -75,6 +75,5 @@
 <h2 align="center">GitHub Status</h2>
 <p align="center">
 	<img src="https://github-readme-stats.vercel.app/api?username=Wesley-Breno&theme=midnight-purple&count_private=true"/>
-	<img src="https://streak-stats.demolab.com?user=Wesley-Breno&theme=midnight-purple&border_radius=&date_format=j%2Fn%5B%2FY%5D"/>
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wesley-Breno&theme=midnight-purple&layout=donut&hide=jupyter%20notebook"/>    
 </p>
